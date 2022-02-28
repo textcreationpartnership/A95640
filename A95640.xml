@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Terrible and bloudy newes from sea: being a full relation of the last great and terrible fight at sea, between the two fleets of England and Holland, comanded by General Blake and Admiral Vantrump; the great losse on both sides impartially related: with the particulars of a former fight, and a list of the ships then taken; sent in a letter from Gen. Blake to a personage of honour. Likewise, the States of Hollands letter to the States of Hamburgh, and the other cities thereabouts for aid and assistance; and their issuing out orders to the East-India Company, against the English in the East-Indies; the preparations that are making in Denmark and Sweden, and a discovery of the King of Polands plot, in the late massacre of the army by the Tartars and Cossacks.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95640</idno>
+            <idno type="STC">Wing T763</idno>
+            <idno type="STC">Thomason E673_9</idno>
+            <idno type="STC">ESTC R207180</idno>
+            <idno type="EEBO-CITATION">99866250</idno>
+            <idno type="PROQUEST">99866250</idno>
+            <idno type="VID">166257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E673[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Terrible and bloudy newes from sea: being a full relation of the last great and terrible fight at sea, between the two fleets of England and Holland, comanded by General Blake and Admiral Vantrump; the great losse on both sides impartially related: with the particulars of a former fight, and a list of the ships then taken; sent in a letter from Gen. Blake to a personage of honour. Likewise, the States of Hollands letter to the States of Hamburgh, and the other cities thereabouts for aid and assistance; and their issuing out orders to the East-India Company, against the English in the East-Indies; the preparations that are making in Denmark and Sweden, and a discovery of the King of Polands plot, in the late massacre of the army by the Tartars and Cossacks.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166257:1" rendition="simple:additions"/>
+            <p>Terrible and Bloudy NEWES FROM SEA: Being A full Relation of the laſt great and terri<g ref="char:EOLhyphen"/>ble fight at Sea, between the two Fleets of England and Holland, comanded by General Blake and Admiral Van<g ref="char:EOLhyphen"/>trump; the great loſſe on both ſides impartially related: With the particulars of a former fight, and a Liſt of the ſhips then taken; ſent in a letter from Gen. Blake to a per<g ref="char:EOLhyphen"/>ſonage of Honour.</p>
+            <p>Likewiſe, The S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates of Hollands Letter to the States of Hamburgh, and the other Cities thereabouts for aid and aſſiſtance; and their iſſuing out Orders to the Eaſt-India Company, againſt the Engliſh in the Eaſt Indies; the pre<g ref="char:EOLhyphen"/>parations that are making in Denmark and Sweden, and a a diſcovery of the King of Polands Plot, in the late maſſa<g ref="char:EOLhyphen"/>cre of his army by the Tartars and Coſſacks.</p>
+            <figure>
+               <figDesc>woodcut of two ships facing each other</figDesc>
+               <q>Aug 6.</q>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>T. G.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166257:2"/>
+            <pb n="3" facs="tcp:166257:2"/>
+            <head>Terrible and BLOVDY NEWS From SEA: Being A full relation of the laſt great and bloudy fight, between the two Fleets commanded by Gen. Blake and Ad<g ref="char:EOLhyphen"/>mirall Vantrump, July 30.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Endeared Sir,</salute>
+               </opener>
+               <p>YOurs of the 28 of July I received; in anſwer whereto, take this, This day came news to this place of a very great and hot Sea-fight, the manner was thus related. On the 30 inſtant the Dutch (after their long ſtay about Tinmouth, and other parts thereabouts) were diſcovered not very far from certain
+<pb n="4" facs="tcp:166257:3"/>Iſlands called the Fern Iſlands, they came with their ſails filled, Trumpets ſounding, Flaggs on Top-maſt head, ſhewing forth tokens of great reſolution; our Fleet diſ<g ref="char:EOLhyphen"/>covering them, the Generall called a Councel, all unani<g ref="char:EOLhyphen"/>mouſly agreed to fight them without delay, whereupon bearing up towards them, the Generall perceived the Dutch Admiral to ſingle out himſelf from the reſt, and ſcorning advantage of number, went forth alone to meet him, where valour appeared in its reſplendant brightneſs, above 40 broad ſides being exchanged between them: the Fleets on both ſides comming cloſe together, very deſpe<g ref="char:EOLhyphen"/>rately engaged each other, and manifeſted themſelves to be the ſons of Mars, ſighting with ſuch reſolution, that ſo terrible a Sea-ſight hath not been heard of in the re<g ref="char:EOLhyphen"/>membrance of any man, the diſcoloured ſea ſhewing the effects of their wrath. The Generall was exceedingly diſtreſſed, every one ſeeking his ruine above the reſt; but Major Bourn, Capt. Peacock and divers others of our Fleet, ſeeing him in ſuch danger, made up to his relief, and ſo plied the enemy with great and ſmall ſhot, that they were forced to tack about, to reſiſt the fury of thoſe freſh aſſailants, during this time the reſt of the Fleets were not idle but fought very reſolutely, as if they were reſol<g ref="char:EOLhyphen"/>ved not to give over ſo long as a ſhip remained to float upon the Ocean.</p>
+               <p>The Generals on both ſides ſtrove to excell each other, and with their grapling Irons to board one another, but in vain, the Combatants on neither ſide giving way, ſo that ſmall ſhot flew about as thick as Hail among them; at laſt the death of Vantrump (who was ſeen to fall on the Deck) ſo diſcouraged them, that diſpairing of victory, they endeavoured all they could to make away; but our men determining not to let them ſo eſcape, ſo beſtir<g ref="char:EOLhyphen"/>red themſelves, that they took about 54 of them, and
+<pb n="5" facs="tcp:166257:3"/>ſunk near upon 30, the reſt fled towards the Sound; our fleet are in purſuit of them; our loſſe is reported to be conſiderable, yet not ſo much (we hope) as is related: it is ſaid the Reſolution (in which was our Admirall) is ſunk, with about thirteen or fourteen more, which loſſe (though it be great) is far inferiour to theirs, the rather for that our General eſcaped with moſt of his Officers, in the boat; no doubt God hath reſerved him yet to do great things for the glory of his name, and the good of this Common-wealth.</p>
+               <closer>
+                  <dateline>
+                     <hi>From the Sole near Yarmouth,</hi>
+                     <date>
+                        <hi>Auguſt</hi> 4. 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Hamburgh, dated August <hi>3</hi> ſtilo novo, <hi>1652.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Arrived here ſafely yeſterday the ſecond inſtant, and finding now an opportunity, I thought good to acquit my ſelf of my promiſe to you. The Swedes are making great preparations both by Sea and Land; at the late Randezvous or muſtering, which uſually is kept once a year, there were numbred twenty thouſand foot, and ſix thouſand Horſe, and the Crown ſhips are in a very gal<g ref="char:EOLhyphen"/>lant Equipage. They kept a day of humiliation through the whole Country; but what their intentions are, is not yet known.</p>
+               <p>The Danes, their near Neighbours, begin to be jea<g ref="char:EOLhyphen"/>lous, and for that end provide for their own ſecurity as faſt as they can, in mending their ſhips, and fortifying their places upon their frontiers.</p>
+               <pb n="6" facs="tcp:166257:4"/>
+               <p>At Stockholm there is expected ſhortly Don Eſtivan de Gamara as Ambaſſador extraordinary for the King of Spain. Reports are likewiſe of one comming from Holland, but it is thought he will not be ſo welcome as one from England, for the Hollanders are very jealous of a correſpondency between the Parliament of England, and that Crown.</p>
+               <p>On the 28 of July there paſſed through this Town of Hambrough in great haſte, an Expreſſe from the States of Holland, with ſeveral Letters to this and other Cities hereabouts. He goes on ſpeedily forward to Denmark and the Sound, to give notice in all parts, of the VVar commenced between that State and the Republick of En<g ref="char:EOLhyphen"/>gland and to require their aid.</p>
+               <p>The news of Poland, which for a long time was full of uncertainties and contradictions, according to the partial affections or diſaffections of the Relators; begins now to appear a little more clear and certain, and time the mo<g ref="char:EOLhyphen"/>ther of Truth, hath diſcovered ſince ſeveral particulars concerning the ſtate of Affairs there, and the Author of all their miſeries (according to my beſt intelligence) is found to be their own King; That he invited the Tartars to fall upon one part of the Army, which as it ſeems was guided by the Nobles, and had refuſed to comply with his ambitions deſigns, hoping by the removing of this ob<g ref="char:EOLhyphen"/>ſtacle, to maſter the great ones, and to bring the Nobili<g ref="char:EOLhyphen"/>ty to his will: And as ſoon as the news of this ſlaughter was brought, he cauſed it to be noiſed abroad through all parts of the Kingdome, ſetting forth in ſuch a nature, as if all were loſt and undone, thereby to inveigle and a<g ref="char:EOLhyphen"/>maſe the people, and to bring them to doubt of their own ſa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ety, that ſo they might be brought to aſſiſt him with their lives and Eſtates, to work out his unlimited deſires, and to entrap his Nobles and Great Ones whom he had
+<pb n="7" facs="tcp:166257:4"/>invited upon ſo ſudden an occaſion, at the place of Ren<g ref="char:EOLhyphen"/>dezvouz, to conſult about the preſent ſtate and condition of the Affairs of the Kingdome; ſending out pittifull Letters and Declarations to all parts of his Command, as if that all would be deſtroyed, ruined, and over-run by the approaching numerous Enemy, if they were not timely prevented; and that the Muſcovite on the one ſide, and the Turks on the other ſide, prepare and haſten to ſe<g ref="char:EOLhyphen"/>cond the Tartars and Coſaggs: and therefore he intreats their aid and aſſiſtance, for the good and delivery of the Kingdome, both of men and moneys, for which end he offers himſelf, and is willing to be made a Sacrifice for them.</p>
+               <p>But this his Plot being in ſome meaſure diſcovered, is oppoſed by the greateſt perſons in Poland, and it is like<g ref="char:EOLhyphen"/>ly will light very heavy upon his Majeſty at the intended Dyet at Warſovia, to which uſual place he is forced now to remove it from the ſaid appointed Rendezvouz; It was to begin the 23 of July. What the Reſults there<g ref="char:EOLhyphen"/>of will be, time will produce.</p>
+               <p>The Commiſſioners for the Town of Breme, ſolicite hard, that they may remain a free Town of the Empire: But I beleeve their deſires therein will never be granted. Sir, this is all at preſent from</p>
+               <closer>
+                  <dateline>
+                     <hi>Hamburgh,</hi> 
+                     <date>
+                        <hi>Aug.</hi> 3. <hi>ſtin.</hi> 1652.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your moſt aſſured friend,</hi> J: B.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <head>Postſcript.</head>
+               <p>Juſt now the Poſt from Amſterdam arrived here, who brings news, That the Eaſt India Company have received Order from the States General, to take all the Engliſh, and do all the harm they can to them in the Eaſt Indies, having 160 Commiſſions for private Men of War.</p>
+               <pb n="8" facs="tcp:166257:5"/>
+               <p>Letters from General Blakes Fleet, and in particular one from himſelf to a perſonage of Honour, dated July 22. give a full account of thoſe 12 Dutch Men of War lately taken, which were a guard for the Buſſes, viz. That the diſpute was hot for 3 hours ſpace, there being but 8 Engliſh Frigats that engaged in that ſervice, in which Captain Brandly received a ſhot in the right hand, which is ſince cut off. We loſt ſome of our Souldiers and Sea men, but no great number; Many of the Dutch are kil<g ref="char:EOLhyphen"/>led and wounded, nine hundred of the priſoners then ta<g ref="char:EOLhyphen"/>ken are ſtill in the fleet till we can otherwiſe diſpoſe of them. I ſhall give you a Liſt of the ſhips then taken, viz.</p>
+               <list>
+                  <item>The <hi>Paul of Rottêrdam, the Admiral,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Water Hound, the Vice Admi<g ref="char:EOLhyphen"/>ral,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Sampſon of Anchuiſen</hi> 28 <hi>guns</hi>
+                  </item>
+                  <item>
+                     <hi>Arms of Holland,</hi> 30 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Swan of Amsterdam,</hi> 28 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Adam and Eve,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Baptist,</hi> 22 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Land of Promiſe,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Katherine,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Noahs Ark,</hi> 24 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Calver Slittle,</hi> 22 <hi>Guns.</hi>
+                  </item>
+                  <item>
+                     <hi>Sampſon of Horn,</hi> 24 <hi>Guns.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Two of which are ſince ſunk.</hi>
+               </p>
+               <p>Six of theſe ſhips are diſpoſed for the ſervice of the Common-wealth of England: Mr. Thomas Adams, for<g ref="char:EOLhyphen"/>merly Lieutenant to the Admiral in the Reſolution, is now Captain of the Paul, the beſt and firmeſt ſhip a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
